@@ -7,7 +7,7 @@ Currently building agent infrastructure at Providio AI. Before that, data scienc
 ## Writing
 
 - [Why The Girl You Want Doesn't Want You Back](https://themlnerd.substack.com/p/why-the-girl-you-want-doesnt-want): how a matching system went from 22% to 68% mutual acceptance by optimising for "mutual match" instead of "best match".
-  The method as tested code, with a page on how matching should work: [wavelength](https://github.com/Mohit-Dhawan98/wavelength).
+  The method, approximated, as an environment for testing matching rules: [dating-env](https://github.com/Mohit-Dhawan98/dating-env), a dating environment you can [play in the browser](https://mohit-dhawan98.github.io/dating-env/).
 
 ## Agents and ML
 
