@@ -14,7 +14,6 @@ Currently building agent infrastructure at Providio AI. Before that, data scienc
 |---|---|
 | [sre-incident-env](https://github.com/Mohit-Dhawan98/sre-incident-env) | An RL environment where agents must fix production incidents, not just diagnose them. Eight real incident patterns as state-graph mazes with trap actions; four frontier models baselined. |
 | [Recall](https://github.com/Mohit-Dhawan98/Recall) | Self-hosted knowledge capture: save from browser, phone or Telegram; one model call per article, then a rule-built knowledge graph. |
-| [ii-agent-tla](https://github.com/Mohit-Dhawan98/ii-agent-tla) | A persistent memory layer on top of an open-source agent, for analytics work that remembers across sessions. |
 | [adalyst-mcp](https://github.com/Mohit-Dhawan98/adalyst-mcp) | MCP servers that give Claude competitor ad intelligence. |
 | [reet](https://github.com/Mohit-Dhawan98/reet) | Research on entity-level context compression for agents. |
 | [MindScroll](https://github.com/Mohit-Dhawan98/MindScroll) | Turns a book into a chapter-by-chapter course of flashcards, quizzes and summaries. |
