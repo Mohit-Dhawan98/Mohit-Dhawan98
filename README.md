@@ -7,6 +7,7 @@ Currently building agent infrastructure at Providio AI. Before that, data scienc
 ## Writing
 
 - [Why The Girl You Want Doesn't Want You Back](https://themlnerd.substack.com/p/why-the-girl-you-want-doesnt-want): how a matching system went from 22% to 68% mutual acceptance by optimising for "mutual match" instead of "best match".
+  The method as tested code, with a page on how matching should work: [wavelength](https://github.com/Mohit-Dhawan98/wavelength).
 
 ## Agents and ML
 
