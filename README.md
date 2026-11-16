@@ -25,6 +25,7 @@ Currently building agent infrastructure at Providio AI. Before that, data scienc
 | [photo-to-paint](https://github.com/Mohit-Dhawan98/photo-to-paint) | Turns a photo into a printable paint-by-numbers kit matched to real acrylic tubes, with every region guaranteed wide enough for a brush. |
 | [anima](https://github.com/Mohit-Dhawan98/anima) | From a few painted views of a character to a 3D head to a five-grey pixel-art sprite sheet. |
 | [resolve-free-mcp](https://github.com/Mohit-Dhawan98/resolve-free-mcp) | Lets Claude edit video in the free edition of DaVinci Resolve, through a Lua bridge and a slightly absurd return channel. |
+| [PortfolioAnalyzer](https://github.com/Mohit-Dhawan98/PortfolioAnalyzer) | The pipeline behind my own investing: fetch, store, score and report on Indian equities and funds, with every number tied to a source and a date. |
 | [unscroll](https://github.com/Mohit-Dhawan98/unscroll) | A 60 KB Android app that throws you out of Shorts and Reels. |
 
 ## Contact
